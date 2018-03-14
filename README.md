@@ -1,2 +1,2 @@
 # pythonAI
-Python AI testing scripts
+Python AI testing scripts from Siraj Raval video
